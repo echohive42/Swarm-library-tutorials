@@ -1,0 +1,4 @@
+openai
+swarm
+termcolor
+python-dotenv 
