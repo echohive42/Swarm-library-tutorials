@@ -12,7 +12,7 @@ The tutorials aim to help developers understand how to:
 - Work with different types of agents and conversation patterns
 - Manage context and state in AI applications
 - Handle errors and implement retry mechanisms
-- Create production-ready AI systems with multiple agents
+- Create AI systems with multiple agents
 
 ## 🎥 Watch How It's Built!
 
