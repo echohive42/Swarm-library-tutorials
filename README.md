@@ -18,7 +18,7 @@ The tutorials aim to help developers understand how to:
 
 **[Watch the complete build process on Patreon](https://www.patreon.com/posts/how-to-build-119979655)** - This tutorial is part of the comprehensive 1000x Cursor Course!
 
-See exactly how this automation system was created step by step, with detailed explanations and insights into the development process. Learn advanced techniques for building AI applications while mastering the Cursor Code Editor.
+See exactly how the files in this tutorial was created step by step, with detailed explanations and insights into the development process. Learn advanced techniques for building AI applications while mastering the Cursor Code Editor.
 
 ## ❤️ Support & Get 400+ AI Projects
 
